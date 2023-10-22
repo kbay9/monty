@@ -108,7 +108,7 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Kobena Badu Enyam/summary>
     <ul>
     <li><a href="https://www.github.com/kbay">Github</a></li>
     <li><a href="mailto:kobenaenyam@gmail.com">e-mail</a></li>
